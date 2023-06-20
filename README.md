@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Igor+Faria+Coletti;I+am+20+years+old;I'm+from+Brazil%2C+SP;I'm+a+Software+Engineering+student+at+UNIFAE;Welcome+to+my+profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&center=true&width=700&lines=Hello%2C+my+name+is+Igor+Faria+Coletti;I+am+20+years+old;I'm+from+Brazil%2C+SP;I'm+a+Software+Engineering+student+at+UNIFAE;Welcome+to+my+profile+!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MthAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
